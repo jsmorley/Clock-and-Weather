@@ -1,6 +1,6 @@
 # Clock & Weather
 
-A transparent Android Home screen widget with a centered 12-hour clock, full weekday and date, and current temperature and conditions. The clock omits AM/PM and uses a slightly heavier font than the reference. Each line has its own size and color.
+A transparent Android Home screen widget with a centered 12-hour clock, full weekday and date, and current temperature and conditions. Each line has its own size and color.
 
 ## Install and add the widget
 
