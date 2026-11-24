@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clock &amp; Weather</string>
+    <string name="auto_color">Auto</string>
+    <string name="auto_color_explanation">Auto uses black text on a light wallpaper and white text on a dark wallpaper.</string>
+    <string name="row_color_mode">%1$s color, %2$s</string>
+    <string name="row_font_title">%1$s font</string>
+    <string name="row_font_choice">%1$s font, %2$s</string>
+    <string name="widget_description">A transparent clock, date, and local weather with adjustable text.</string>
+</resources>
